@@ -11,4 +11,5 @@ struct Content: Identifiable {
     let id = UUID()
     var title: String
     var image: String
+    var description: String
 }
